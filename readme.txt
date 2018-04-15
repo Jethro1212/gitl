@@ -1,3 +1,3 @@
 sdd
 Git is a distributed version control system.
-Git is commertial software.
+Git is free software distributed under the GPL.
